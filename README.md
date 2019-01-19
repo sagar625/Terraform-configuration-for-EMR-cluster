@@ -6,7 +6,7 @@ This repository contains Terraform configuration for AWS EMR cluster.
 1.Unzip the folder
 
 
-2.Delete ant tf.state or tf.state.backup files if present.
+2.Delete  tf.state or tf.state.backup files if present.
 
 
 3.At your home location make a .aws folder and add your AWS credentials there,check this link for further explanation        https://medium.com/@dwdraju/dive-into-aws-with-terraform-e73652206192
